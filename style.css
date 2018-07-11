@@ -1,0 +1,172 @@
+.container {
+}
+.header{
+  position: fixed;
+}
+.main {
+  position: relative;
+  top: 75px;
+}
+.Download-App{
+  width: 99px;
+  height: 19px;
+  font-family: 'Open Sans';
+  font-size: 14px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: white;
+  position: fixed;
+top:0px;
+left: 1100px;
+background:#11a9fe;
+border-radius: 20px;
+background-size:132px 16px;
+padding: 5px;
+
+}
+.sign-up {
+  width: 99px;
+  height: 19px;
+  font-family: 'Open Sans';
+  font-size: 14px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: white;
+  position: fixed;
+top:0px;
+left: 1263px;
+background:#00cb86;
+border-radius: 20px;
+background-size:132px 16px;
+padding: 5px;
+text-align: center;
+
+}
+.logo {
+  width: 41.8px;
+  height: 27.7px;
+  object-fit: contain;
+  background-color: white;
+  position: fixed;
+}
+.THE-VIDEO-MARKETING {
+  width: 703px;
+  height: 30px;
+  font-family: Raleway;
+  font-size: 25px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #11a9fe;
+position:relative;
+left: 207px;
+margin: 0px;
+padding: 0px;
+
+}
+.WE-ARE-LIVING-IN-A-V {
+  width: 390px;
+  height: 27px;
+  font-family: Raleway;
+  font-size: 23px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #aa58ee;
+  position:relative;
+  left: 207px;
+
+}
+.sep {
+  position: fixed;
+  top: 55px;
+  width: 100%;
+  height: 1px;
+  background-color: rgba(208, 208, 208, 0.4);
+
+
+}
+.YouTube-is-the-secon {
+  width: 495px;
+  height: 185px;
+  font-family: 'Open Sans';
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.19;
+  letter-spacing: normal;
+  color: #404040;
+  position: relative;
+  left: 208px;
+}
+.Whats-in-the-guide {
+  width: 231px;
+  height: 27px;
+  font-family: Raleway;
+  font-size: 23px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #aa58ee;
+  position: relative;
+  left: 208px;
+}
+.Video-marketing-is-k {
+  width: 495px;
+  height: 245px;
+  font-family: 'Open Sans';
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.19;
+  letter-spacing: normal;
+  color: #404040;position: relative;
+  left: 208px;
+}
+.About-BIGVU {
+  width: 147px;
+  height: 27px;
+  font-family: Raleway;
+  font-size: 23px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #aa58ee;
+  position: relative;
+  left: 208px;
+}
+.BIGVU-makes-it-so-ea {
+  width: 495px;
+  height: 210px;
+  font-family: 'Open Sans';
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.19;
+  letter-spacing: normal;
+  color: #404040;
+  position: relative;
+  left: 208px;
+}
+.pres{
+  position: absolute;
+  top: 167px;
+  left: 733px;
+}
